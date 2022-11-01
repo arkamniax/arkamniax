@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arkamniax
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Engineering and Data Analytics
-- 💞️ I’m looking to collaborate on Data, Data, Data
+- 👀 I’m interested in DEVELOPMENT, any sort of development!
+- 🌱 I’m currently learning DevOps and Networking
+- 💞️ I’m looking to collaborate on JAVA, Python, DevOps, JS
 - 📫 How to reach me adb176@gmail.com
 
 <!---
